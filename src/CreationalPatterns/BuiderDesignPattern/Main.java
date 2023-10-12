@@ -6,7 +6,7 @@ public class Main {
         Person person = new Person.PersonBuilder()
                 .id(666)
                 .name("Levent")
-                .surname("Divilioglu")
+                .surname("Surname")
                 .setOccupied(true)
                 .build();
 
